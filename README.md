@@ -20,3 +20,6 @@ Este programa simula un sistema de atención de pacientes en una sala de emergen
 3. Para salir del programa, selecciona la opción correspondiente según las instrucciones proporcionadas en la consola.
 
 ¡Disfruta utilizando el Sistema de Atención de Pacientes en Emergencias!
+
+## V2
+https://github.com/Ihan-Marroquin/hdt8_v2.git
