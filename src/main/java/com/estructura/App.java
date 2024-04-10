@@ -31,9 +31,14 @@ public class App {
 
         // Atender pacientes en orden de prioridad
         while (!emergencyQueue.isEmpty()) {
-            Paciente nextPatient = emergencyQueue.remove();
-            System.out.println("Nombre: " + nextPatient.getNombre() + ", Síntoma: " + nextPatient.getSintoma() +
-                    ", Prioridad: " + nextPatient.getCodigoEmergencia());
+            Paciente pacienteAtendido = emergencyQueue.atenderSiguientePaciente();
+            if (pacienteAtendido != null) {
+                System.out.println("Paciente atendido:");
+                System.out.println("Nombre: " + pacienteAtendido.getNombre());
+                System.out.println("Síntoma: " + pacienteAtendido.getSintoma());
+                System.out.println("Prioridad: " + pacienteAtendido.getCodigoEmergencia());
+                System.out.println("-------------------------------------------");
+            }
         }
     }
 }
