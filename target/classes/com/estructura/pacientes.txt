@@ -1,0 +1,14 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Carlos Gonzalez, fiebre alta, A
+Ana Martinez, accidente automovilístico, A
+Pedro Lopez, dolor en el pecho, B
+Laura Garcia, fractura de brazo, C
+Manuel Rodriguez, quemaduras graves, B
+Sofia Fernandez, dificultad respiratoria, A
+David Perez, convulsiones, C
+Isabel Gomez, hemorragia interna, B
+Elena Ruiz, desmayo, D
+Roberto Sanchez, cortes profundos, A
